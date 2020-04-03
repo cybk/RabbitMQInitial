@@ -3,3 +3,7 @@
 ################################################################################
 
 /RabbitMQInit/.vs/RabbitMQInit/v16
+/Receive/bin/Debug/netcoreapp3.1
+/Receive/obj
+/Send/bin/Debug/netcoreapp3.1
+/Send/obj
