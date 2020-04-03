@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Receive", "..\Receive\Recei
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Send", "..\Send\Send.csproj", "{1803B1F7-17A1-4D3C-BAB0-ED9CE1201FA0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77AFE8BD-4C21-42BD-9EFC-795F12D890D9}"
+	ProjectSection(SolutionItems) = preProject
+		Some instructions.txt = Some instructions.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
